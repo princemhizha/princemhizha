@@ -42,10 +42,5 @@
 
 > *"Technology is most powerful when it solves real human problems."*
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00c896&style=flat" />
-</p>
 
 <h3 align="center">⚡ Building the future, one product at a time ⚡</h3>
