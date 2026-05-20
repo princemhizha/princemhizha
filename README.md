@@ -16,40 +16,7 @@
 - 🧠 Constantly learning and pushing into **next-level engineering**
 - 🚀 Founder mindset — building products, not just code
 
----
 
-## 🛠 Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logo=tailwind-css)
-
-### Backend & Cloud
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-
-### AI / Data
-![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=for-the-badge&logo=openai)
-![Machine Learning](https://img.shields.io/badge/-ML-black?style=for-the-badge)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
-
----
 
 ## 🔥 Current Focus
 
@@ -63,12 +30,8 @@
 
 ## 🌍 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:princemhizha58@gmail.com">
 <img align="center" src="https://img.shields.io/badge/Email-Reach%20Out-green?style=for-the-badge&logo=gmail" />
 </a>
 </p>
